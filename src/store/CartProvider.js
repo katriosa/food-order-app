@@ -1,6 +1,6 @@
 import CartContext from "./cart-context";
 
-import { useReducer } from "react;";
+import { useReducer } from "react";
 
 const defaultCartState = {
   items: [],
